@@ -1,5 +1,5 @@
 - 👋 Hi, I’m NUKUESE NGONGO 
-- 👀 I’m interested in promming
+- 👀 I’m interested in programming
 - 🌱 I’m currently learning python 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
